@@ -18,7 +18,7 @@ from datetime import datetime
 # Initialize the bot and variables
 bot = commands.Bot(command_prefix='.')
 bot.mcServer = "geo.hivebedrock.network:19132"
-bot.startCmd = "wakeonlan 8C:DC:D4:47:87:FC"
+bot.startCmd = "wakeonlan 8D:WHAT:EVER:YOUR:MAC:IS"
 bot.footerTxt = "ServerStats • v0.41-beta • BetaTester41"
 bot.authorPage = ""
 token = ""

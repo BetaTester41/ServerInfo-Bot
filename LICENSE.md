@@ -1,4 +1,5 @@
 ServerInfo Bot provides a connection between the Discord interface and the server backend.
+
 Copyright &copy; 2022 BetaTester41 (Issac Sum)
 
 This program is free software: you may redistribute it and/or modify it under the following terms:
